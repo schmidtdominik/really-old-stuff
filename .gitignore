@@ -1,0 +1,5 @@
+fashion-mnist_test.csv
+fashion-mnist_train.csv
+notMNIST.pickle
+notMNIST-all.pickle
+notMNIST-all.pickle.tar.gz
